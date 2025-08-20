@@ -17,27 +17,9 @@ arr = array.array('i', [1, 2, 3, 4, 5])
 #   Modified array: array('i', [1, 2, 99, 4, 5])
 
 
-🚀 How to Run:
-- Make sure Python is installed on your system.
-- Clone this repository:
-git clone https://github.com/your-username/array-search-replace.git
-cd array-search-replace
-- Run the script:
-python array_search_replace.py
 
 
-📂 File Structure
-array-search-replace/
-├── array_search_replace.py
-└── README.md
 
 
-🛠️ Requirements
-- Python 3.x
-- No external libraries required
-🙌 Contributing
-Feel free to fork the repo, improve the code, or add new features like:
-- Support for other data types
-- Multiple replacements
-- GUI interface
+
 
